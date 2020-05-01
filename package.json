@@ -1,0 +1,17 @@
+{
+  "name": "weather-node-cmd-app",
+  "version": "1.0.0",
+  "description": "A simple Node JS app that can fetch Weather data from OpenWeatherMap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Aniket Narayan",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
